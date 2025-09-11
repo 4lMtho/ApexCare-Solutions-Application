@@ -1,2 +1,4 @@
 # ApexCare-Solutions-Application
-ApexCare Solutions is an innovative maintenance service provider dedicated to managing and maintaining client equipment through customized service contracts. Focused  on client satisfaction and operational efficiency, ApexCare Solutions leverages cutting-edge  technology to streamline the entire service lifecycle - from call intake and job assignment to  incident resolution and customer satisfaction monitoring. Through a centralized platform, the system enables eAicient job management, real-time performance tracking, and proactive service-level monitoring.
+ApexCare Solutions is an innovative maintenance service provider dedicated to managing and maintaining client equipment through customized service contracts. Focused  on client satisfaction and operational 
+efficiency, ApexCare Solutions leverages cutting-edge  technology to streamline the entire service lifecycle - from call intake and job assignment to  incident resolution and customer satisfaction monitoring. 
+Through a centralized platform, the system enables eAicient job management, real-time performance tracking, and proactive service-level monitoring.
