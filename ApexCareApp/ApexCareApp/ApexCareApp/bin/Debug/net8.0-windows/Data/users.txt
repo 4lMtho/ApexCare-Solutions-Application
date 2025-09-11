@@ -1,0 +1,3 @@
+admin,admin123,admin
+client1,client123,client
+tech1,tech123,technician
